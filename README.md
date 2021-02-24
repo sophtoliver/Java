@@ -3,4 +3,4 @@ Java programs created in Eclipse. Using the branch drop down menu underneath the
 
 Each branch contains the one to many files needed for each program.
 
-Information about the program is included in a description above each python file.
+Information about the program is included in a description above each Java file.
